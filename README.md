@@ -8,7 +8,7 @@
 
 <center><img src="https://thumb.tildacdn.com/tild3962-3930-4231-b430-383266613430/-/format/webp/image_3.png"></center>
 
-* 📚 Дополнительно прохожу курс "data scientist" от SkillFactory <img src="https://yt3.ggpht.com/ytc/AMLnZu8IAAuKVZCvz8yqhgsXg_Xu38RapmhE2k358V-3=s900-c-k-c0x00ffffff-no-rj" width=20 heght=20>  
+* 📚 Дополнительно прохожу курс "Профессия Data Scientist" от SkillFactory <img src="https://yt3.ggpht.com/ytc/AMLnZu8IAAuKVZCvz8yqhgsXg_Xu38RapmhE2k358V-3=s900-c-k-c0x00ffffff-no-rj" width=20 heght=20>  
 
 🎐 Цели на 2023 год: 🎐
 * Попасть на стажировку
