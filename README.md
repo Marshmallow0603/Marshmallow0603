@@ -19,10 +19,20 @@
 
 
 💡 Основные компетенции 💡
-* Инструменты: SQL, Python, C++
+* Инструменты: SQL, Python
 * Skills:
   - Hard skills:
-    - pass;
+    - Основы статистики
+    - Основы микроэкономики
+    - Библиотеки:
+      - NumPy
+      - Pandas
+      - Matplotlib
+      - Seaborn
+      - Plotly
+    - SQL
+    - Microsoft Excel
+    - Microsoft PowerPoint
   * Soft skills:
     - умение слушать
     - командная работа
@@ -40,5 +50,5 @@
 > "Если вы хотите работать с лучшими, станьте лучшими сами."  
 
 
-🙌🏻 Свяжись со мной
+🙌🏻 Свяжитесь со мной
 - [Telegram](https://t.me/Marshmallow0603)
